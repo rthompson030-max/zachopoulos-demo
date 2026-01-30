@@ -1,4 +1,4 @@
-PROJECT STANDARDS: Blueprint Architectural Design
+PROJECT STANDARDS: AZ Architecture - Alex Zachopoulos
 
 Navigation: Header logo is linked to #top for easy return.
 
