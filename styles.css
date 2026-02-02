@@ -408,6 +408,18 @@ h1 {
     color: var(--white);
 }
 
+.footer-col p a.footer-link,
+.footer-col .footer-link {
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-col p a.footer-link:hover,
+.footer-col .footer-link:hover {
+    color: var(--white);
+}
+
 /* Responsive */
 @media (max-width: 1200px) {
     .container {
