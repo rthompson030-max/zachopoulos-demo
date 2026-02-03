@@ -458,4 +458,7 @@ h1 {
     .footer-grid {
         grid-template-columns: 1fr 1fr;
     }
+}.logo {
+    margin-top: 20px;
+    padding-top: 15px;
 }
